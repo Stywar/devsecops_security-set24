@@ -1,0 +1,7 @@
+com\polyglot\appsecurity\controller\AuthController.class
+com\polyglot\appsecurity\service\AuthService.class
+com\polyglot\appsecurity\dto\AuthRequest.class
+com\polyglot\appsecurity\model\AccessModel.class
+com\polyglot\appsecurity\AppsecurityApplication.class
+com\polyglot\appsecurity\dto\AuthResponse.class
+com\polyglot\appsecurity\jwt\JwtToken.class
